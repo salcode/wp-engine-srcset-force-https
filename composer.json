@@ -1,0 +1,10 @@
+{
+	"name": "salcode/wp-engine-srcset-force-https",
+	"description": "WordPress plugin to force WP Engine sites to use HTTPS when generating srcset image urls. This only applies to production sites, staging sites are unaffected. Non-WP Engine sites are also unaffected. Requires PHP 5.3 or above, which is present on all WP Engine installs.",
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/salcode/wp-engine-srcset-force-https",
+	"license": "GPL-2.0+",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
